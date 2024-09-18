@@ -1,0 +1,4 @@
+   In today's digital age, the traditional way of keeping a personal diary may seem outdated.
+   Howeverhere is something about putting pen to paper that cannot be replaced by technology.
+   What if we couldcombine the two and create a personal diary using Python and the tkinter library? 
+   In this article,wewill explore how to create a simple diary using Python and tkinter.
